@@ -1,0 +1,10 @@
+Output: HORNET-1-IPG-3DModel
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [HORNET-1-IPG.PcbDoc]
+   Generated File[HORNET-1-IPG.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:02:20 PM On 11/11/2024

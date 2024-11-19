@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [HORNET-1-IPG.PrjPcb]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GTO]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GTP]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GTS]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GTL]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G1]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G2]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G3]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G4]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G5]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.G6]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GBL]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GBS]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GBP]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GBO]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GKO]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GPT]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GPB]
+   Generated File[ME-IPG-V1_rev0.24_RIGID.GM]
+   Generated File[HORNET-1-IPG.EXTREP]
+   Generated File[HORNET-1-IPG.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 3:10:25 PM On 11/11/2024
